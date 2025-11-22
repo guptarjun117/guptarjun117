@@ -33,7 +33,7 @@ Metalhead, Guitarist, Pythonian, Quant...
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=Flat&logo=ollama&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=Flat&logo=nVIDIA&logoColor=green)
 
-#### Crypto Interests:
+#### Active Crypto Space:
 ![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=Flat&logo=bitcoin&logoColor=white)
 ![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=Flat&logo=solana&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=Flat&logo=Ethereum&logoColor=white)
