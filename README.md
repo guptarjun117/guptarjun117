@@ -7,8 +7,6 @@ Metalhead, Guitarist, Pythonian, Quant...
 #### Languages and Libraries:
 ![Python](https://img.shields.io/badge/python-3670A0?style=Flat&logo=python&logoColor=ffdd54)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=Flat&logo=markdown&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=Flat&logo=css&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=Flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=Flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=Flat&logo=Matplotlib&logoColor=black)
@@ -17,6 +15,8 @@ Metalhead, Guitarist, Pythonian, Quant...
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=Flat&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=Flat&logo=TensorFlow&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=Flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=Flat&logo=css&logoColor=white)
 
 #### Environments:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=Flat&logo=visual-studio-code&logoColor=white)
