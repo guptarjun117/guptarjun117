@@ -31,14 +31,12 @@ Metalhead, Guitarist, Pythonian, Quant...
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?Flat&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=Flat&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=Flat&logo=ollama&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=Flat&logo=nVIDIA&logoColor=green)
 
 #### Active Crypto Space:
 ![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=Flat&logo=bitcoin&logoColor=white)
 ![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=Flat&logo=solana&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=Flat&logo=Ethereum&logoColor=white)
 ![Tether](https://img.shields.io/badge/tether-168363?style=Flat&logo=tether&logoColor=white)
-
 
 #### Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=Flat&logo=git&logoColor=white)
