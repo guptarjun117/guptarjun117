@@ -1,5 +1,6 @@
 Metalhead, Guitarist, Pythonian, Quant...
 
+Major projects are pinned!
 
 
 ---
