@@ -7,9 +7,10 @@ Major projects are pinned!
 
 #### Languages and Libraries:
 ![Python](https://img.shields.io/badge/python-3670A0?style=Flat&logo=python&logoColor=ffdd54)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=Flat&logo=c%2B%2B&logoColor=white)](#)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=Flat&logo=rust&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=Flat&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Flat&logo=latex&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=Flat&logo=rust&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=Flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=Flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=Flat&logo=Matplotlib&logoColor=black)
