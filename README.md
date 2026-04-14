@@ -53,14 +53,6 @@ Major projects are pinned!
 ![Medium](https://img.shields.io/badge/Medium-12100E?Flat&logo=medium&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=Flat&logo=Reddit&logoColor=white)
 
-#### Design:
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=Flat&logo=figma&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=Flat&logo=davinciresolve&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=Flat&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=Flat&logo=adobe%20illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=Flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=Flat&logo=Adobe%20After%20Effects&logoColor=white)
-
 #### Downtime:
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=Flat&logo=spotify&logoColor=white)
 ![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=Flat&logo=last.fm&logoColor=white)
