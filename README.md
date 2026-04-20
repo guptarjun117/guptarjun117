@@ -1,61 +1,45 @@
-Metalhead, Guitarist, Pythonian, Quant...
+Metalhead | Guitarist | Python | Quant
 
-Major projects are pinned!
-
+Major projects are pinned
 
 ---
 
-#### Languages and Libraries:
+#### Programming
 ![Python](https://img.shields.io/badge/python-3670A0?style=Flat&logo=python&logoColor=ffdd54)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=Flat&logo=c%2B%2B&logoColor=white)](#)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=Flat&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=Flat&logo=rust&logoColor=white)
+![R](https://img.shields.io/badge/r-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=flat&logo=mysql&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=Flat&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Flat&logo=latex&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=Flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=Flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=Flat&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=Flat&logo=plotly&logoColor=white)
-![Polars](https://img.shields.io/badge/polars-0075ff?style=Flat&logo=polars&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=Flat&logo=scipy&logoColor=%white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=Flat&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=Flat&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=Flat&logo=TensorFlow&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=Flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=Flat&logo=css&logoColor=white)
 
-#### Environments:
+#### Environment/Framework
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=Flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=Flat&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=Flat&logo=anaconda&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=Flat&logo=obsidian&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=Flat&logo=Qt&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=Flat&logo=node.js&logoColor=white)
 
-#### Active AI Space:
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?Flat&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?Flat&logo=github-copilot&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?Flat&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=Flat&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=Flat&logo=ollama&logoColor=white)
+#### Data/Platforms
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat)
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Bloomberg](https://img.shields.io/badge/Bloomberg-000000?style=flat)
 
-#### Active Crypto Space:
-![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=Flat&logo=bitcoin&logoColor=white)
-![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=Flat&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=Flat&logo=Ethereum&logoColor=white)
-![Tether](https://img.shields.io/badge/tether-168363?style=Flat&logo=tether&logoColor=white)
-
-#### Version Control:
+#### DevOps/Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=Flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=Flat&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-008080?style=flat&logo=latex&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazon-redshift&logoColor=white)
 
-#### Always Scrolling:
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=Flat&logo=stack-overflow&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?Flat&logo=medium&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=Flat&logo=Reddit&logoColor=white)
-
-#### Downtime:
+#### Downtime
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=Flat&logo=spotify&logoColor=white)
+![Guitar](https://img.shields.io/badge/Electric%20Guitar-6E4C13?style=flat&logo=musicbrainz&logoColor=white)
 ![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=Flat&logo=last.fm&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?Flat&logo=steam&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=Flat&logo=YouTube&logoColor=white)
-
+![Cinema](https://img.shields.io/badge/Letterboxd-000000?style=flat&logo=letterboxd&logoColor=white)
+![Travel](https://img.shields.io/badge/Travel-0A66C2?style=flat&logo=googlemaps&logoColor=white)
