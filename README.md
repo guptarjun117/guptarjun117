@@ -1,4 +1,4 @@
-Metalhead | Guitarist | Python | Quant
+Metalhead | Guitarist | Pythonian | Quant
 
 Major projects are pinned
 
